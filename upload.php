@@ -1,5 +1,5 @@
 <?php
-
+echo "start"; 
 $target_dir = "/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
 
