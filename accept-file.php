@@ -1,4 +1,5 @@
 <?php
+echo "WTF";
 if($_FILES['photo']['name'])
 {
 	//if no errors...
