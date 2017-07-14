@@ -1,5 +1,5 @@
 <?php
-$filename = 'upload/shadow_dye.jpg';
+$filename = 'upload/shadow_dye.JPG';
 
 ifi(file_exists($filename)) {
     echo "The file $filename exists";
